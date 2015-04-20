@@ -9,3 +9,11 @@ hungyudeMacBook-Air:lab4 hungyuhang$ nm A
 
 
 Question B
+
+hungyudeMacBook-Air:lab4 hungyuhang$ g++ -o B B.cpp
+hungyudeMacBook-Air:lab4 hungyuhang$ ./B
+1 8
+4 8
+4 8
+8 8
+It will print the answer because the pointer of any type is 8 byte(in 64 bit computer).
