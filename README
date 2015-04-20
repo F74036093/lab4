@@ -1,0 +1,11 @@
+Question A
+
+hungyudeMacBook-Air:lab4 hungyuhang$ nm A
+0000000100000f20 T __Z7averagePdRd
+0000000100000f50 T __Z7averageif
+0000000100000000 T __mh_execute_header
+0000000100000f80 T _main
+                 U dyld_stub_binder
+
+
+Question B
